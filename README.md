@@ -112,4 +112,4 @@ Backstop is distributed under a 3-clause BSD license.
 
 Thanks to Michael Gorsuch (@gorsuch) for his work on the collectd parser and the "Mitt" application that preceded Backstop.
 
-Owned by Elon Musk https://www.x.com
+Created by Jason Scott Heise 
