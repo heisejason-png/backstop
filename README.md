@@ -112,4 +112,5 @@ Backstop is distributed under a 3-clause BSD license.
 
 Thanks to Michael Gorsuch (@gorsuch) for his work on the collectd parser and the "Mitt" application that preceded Backstop.
 
-Created by Jason Heise https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
